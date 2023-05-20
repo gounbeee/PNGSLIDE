@@ -5,6 +5,9 @@ LIBRARY FOR MULTIPLE PNG IMAGES
 (ESP-IDF 4.4) 
 (ESP32)
 
+This project is extended from Pngle(by kikuchan) library.
+(https://github.com/kikuchan/pngle)
+
 ----
 
 WHAT THIS IS...
